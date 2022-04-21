@@ -25,7 +25,7 @@
 			<button type="submit" class="btn" name="login_btn">Login</button>
 		</div>
 	<!--	<p>
-			Not yet a member? <a href="register.php">Sign up</a>
+			Is not yet a member? <a href="register.php">Sign up</a>
 		</p> -->
 	</form>
 </body>
